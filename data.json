@@ -19,5 +19,12 @@
     "meditation": "?",
     "journal": true,
     "sleep": false
+  },
+  {
+    "date": "2026-04-24",
+    "work": 5,
+    "meditation": 2,
+    "journal": true,
+    "sleep": false
   }
 ]
